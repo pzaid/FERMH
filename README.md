@@ -292,7 +292,7 @@ This research has been published in **Engineering, Technology & Applied Science 
 
 For questions or support, please contact:
 
-- **Email**: [mujiyanto@amikom.ac.id](mailto:zaidkhanpathan0101@gamil.com)
+- **Email**: [zaidkhanpathan0101@gmail.com](mailto:zaidkhanpathan0101@gamil.com)
 
 ### Special Credit
 
