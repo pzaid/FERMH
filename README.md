@@ -276,8 +276,8 @@ This research has been published in **International Journal of Scientific Resear
 
 **APA:**
 
-> Radha Shirbhate, Zaidkhan Pathan, (2025). Facial Expression Recognition for Mental Health. International Journal of Scientific Research & Engineering Trends, 11(6), 1–6. https://doi.org/10.48084/etasr.9139
-
+> Radha Shirbhate, Zaidkhan Pathan, (2025). Facial Expression Recognition for Mental Health. International Journal of Scientific Research & Engineering Trends, 11(6), 1–6.
+[International Journal of Scientific Research and Engineering Trends](https://ijsret.com/wp-content/uploads/IJSRET_V11_issue6_129.pdf)
 **MLA:**
 
 > Radha Shirbhate, et al. "Facial Expression Recognition for Mental Health." International Journal of Scientific Research & Engineering Trends, vol. 11, no. 6, 2025, pp. 1-6.
