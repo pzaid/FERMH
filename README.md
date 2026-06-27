@@ -270,7 +270,7 @@ You are now ready to explore Facial Expression Recognition for Mental Health Det
 
 This research has been published in **International Journal of Scientific Research & Engineering Trends**, indexed in **Scopus Q2**. Below is the certification evidence:
 
-<img src="./Images/facial-expression-recognition-Citations.jpg" alt="Scopus Q2 Certification" width="200">
+<img src="./Images/facial-expression-recognition-Citation.jpg" alt="Scopus Q2 Certification" width="200">
 
 ### Citation Formats
 
