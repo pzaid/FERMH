@@ -230,7 +230,7 @@ You are now ready to explore Facial Expression Recognition for Mental Health Det
 
 ### Augmented Images
 
-![Augmented Images](./images/facial-expression-recognition-augmented-dataset.jpg)
+![Augmented Images](./Images/facial-expression-recognition-Augmented-Dataset.jpg)
 
 - Visualizes data augmentation techniques used to enhance model robustness.
 
