@@ -166,4 +166,4 @@ if epoch == 10:
 
 ---
 
-For additional support, refer to the [README.md](./README.md) or contact us at [mujiyanto@amikom.ac.id](mailto:mujiyanto@amikom.ac.id).
+For additional support, refer to the [README.md](./README.md) or contact us at [zaidkhanpathan0101@gmail.com](mailto:zaidkhanpathan0101@gmail.com).
