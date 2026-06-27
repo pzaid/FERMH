@@ -1,0 +1,19 @@
+{
+  "timestamp": "2025-10-06T08:29:03.844183Z",
+  "source": "Image (smoke_test)",
+  "primary_emotion": "Happy",
+  "probabilities": {
+    "Angry": 0.012348370626568794,
+    "Disgust": 0.00015271527809090912,
+    "Fear": 0.00681165000423789,
+    "Happy": 0.8995761871337891,
+    "Neutral": 0.05666263401508331,
+    "Sad": 0.019681496545672417,
+    "Surprise": 0.004767006263136864
+  },
+  "scores": {
+    "Anxiety": 3.8,
+    "Depression": 3.2,
+    "Stress": 38.3
+  }
+}
