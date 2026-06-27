@@ -5,7 +5,7 @@
 ![CUDA 11](https://img.shields.io/badge/cuda-11-green.svg?style=plastic)
 ![License CC BY 4.0](https://img.shields.io/badge/license-MIT-green.svg?style=plastic)
 
-Welcome to the **Facial Expression Recognition (FER) for Mental Health Detection** repository. This project leverages cutting-edge AI models, including **Swin Transformer**, to analyze facial expressions for detecting mental health conditions. For detailed insights, refer to the [International Journal of Scientific Research and Engineering Trends]((https://ijsret.com/wp-content/uploads/IJSRET_V11_issue6_129.pdf)), indexed in Scopus Q2.
+Welcome to the **Facial Expression Recognition (FER) for Mental Health Detection** repository. This project leverages cutting-edge AI models, including **Swin Transformer**, to analyze facial expressions for detecting mental health conditions. For detailed insights, refer to the [International Journal of Scientific Research and Engineering Trends](https://ijsret.com/wp-content/uploads/IJSRET_V11_issue6_129.pdf), indexed in Scopus Q2.
 
 ---
 
