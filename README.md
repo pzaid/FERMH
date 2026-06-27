@@ -236,13 +236,13 @@ You are now ready to explore Facial Expression Recognition for Mental Health Det
 
 ### Model Architecture
 
-![FER Architecture](./images/facial-expression-recognition-swin-transformer-model-architecture.jpg)
+![FER Architecture](./Images/facial-expression-recognition-Swin-Transformer-Model-Architecture.jpg)
 
 - Diagram of the Swin Transformer model optimized for **facial expression recognition**.
 
 ### Grad-CAM Visualizations
 
-![Grad-CAM Visualization](./images/facial-emotion-recognition-grad-cam-visualizations.jpg)
+![Grad-CAM Visualization](./Images/facial-emotion-recognition-Grad-Cam-Visualizations.jpg)
 
 - Highlights the facial regions influencing the model’s predictions.
 
