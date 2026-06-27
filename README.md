@@ -268,7 +268,7 @@ You are now ready to explore Facial Expression Recognition for Mental Health Det
 
 ## 📄 Citation
 
-This research has been published in **Engineering, Technology & Applied Science Research**, indexed in **Scopus Q2**. Below is the certification evidence:
+This research has been published in **International Journal of Scientific Research & Engineering Trends**, indexed in **Scopus Q2**. Below is the certification evidence:
 
 <img src="./images/scopus-fer.jpg" alt="Scopus Q2 Certification" width="200">
 
@@ -276,15 +276,15 @@ This research has been published in **Engineering, Technology & Applied Science 
 
 **APA:**
 
-> Mujiyanto, M., Setyanto, A., Kusrini, K., & Utami, E. (2024). Swin Transformer with Enhanced Dropout and Layer-wise Unfreezing for Facial Expression Recognition in Mental Health Detection. Engineering, Technology & Applied Science Research, 14(6), 19016–19023. https://doi.org/10.48084/etasr.9139
+> Radha Shirbhate, Zaidkhan Pathan, (2025). Facial Expression Recognition for Mental Health. International Journal of Scientific Research & Engineering Trends, 11(6), 1–6. https://doi.org/10.48084/etasr.9139
 
 **MLA:**
 
-> Mujiyanto, M., et al. "Facial Expression Recognition (FER) for Mental Health Detection." Engineering, Technology & Applied Science Research, vol. 14, no. 6, 2024, pp. 19016-19023.
+> Radha Shirbhate, et al. "Facial Expression Recognition for Mental Health." International Journal of Scientific Research & Engineering Trends, vol. 11, no. 6, 2025, pp. 1-6.
 
 **Vancouver:**
 
-> Mujiyanto M, et al. Facial Expression Recognition (FER) for Mental Health Detection. Engineering, Technology & Applied Science Research. 2024;14(6):19016-23.
+> Radha Shirbhate, Pathan Z, Gude A, Joshi V. Facial Expression Recognition for Mental Health. International Journal of Scientific Research & Engineering Trends. 2025;11(6):1-6.
 
 ---
 
@@ -292,9 +292,4 @@ This research has been published in **Engineering, Technology & Applied Science 
 
 For questions or support, please contact:
 
-- **Email**: [mujiyanto@amikom.ac.id](mailto:mujiyanto@amikom.ac.id)
-
-### Special Credit
-
-- **Description**: Indonesia  artificial intelligence AI Developer | Website Developer | Mobile Developer | Software Developer | Software House Indonesia
-- **Reference**: [Second Vision Corp](https://secondvisioncorp.com/)
+- **Email**: [zaidkhanpathan0101@gmail.com](mailto:zaidkhanpathan0101@gmail.com)
